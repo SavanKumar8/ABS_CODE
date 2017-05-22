@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+
+#btn{
+	 border-color: #c4d9df #a4c3ca #83afb7;            
+    width: 100px;
+    height: 35px;
+    padding: 10px;
+ 	border-radius: 35px;
+    margin-top: 70px;
+    margin-right:500px;
+}
+
+
+#division
+{
+    padding-top: 100px;
+    width : 100%;
+    margin:auto;
+    /*rder : 1px solid  black;*/
+
+}
+
+#table1
+{
+    width: 100%;
+}
+#table2
+{
+    width: 100%;
+}
+
+#dataposter{
+   width:100%;
+    }
+
+    #datatitle{
+        width: 100%;
+    }
+
+    #datayear{
+        padding-bottom: 35PX;  
+    width: 100%;
+    
+    }
